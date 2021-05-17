@@ -87,6 +87,12 @@ export const dapps = [
     source: 'https://twitter.com/paraswap/status/1360950693037760521'
   },
   {
+    name: 'Status',
+    url: 'https://status.im/',
+    logo: '/dapps/status.jpg',
+    source: 'https://twitter.com/ethstatus/status/1370419185176694794'
+  },
+  {
     name: 'YAM Finance',
     url: 'https://yam.finance/',
     logo: '/dapps/yam-finance.png',
